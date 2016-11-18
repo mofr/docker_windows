@@ -1,4 +1,4 @@
-FROM microsoft/nanoserver
+FROM microsoft/windowsservercore
 
 LABEL Description="Python" Vendor="Python Software Foundation" Version="3.5.1"
 
